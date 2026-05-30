@@ -1,0 +1,55 @@
+{
+  "section": "5.1_technology_and_digital_literacy",
+  "topic": "Искусственный интеллект простыми словами",
+  "author_group": "Команда glebb228",
+  "members": [
+    "Козлов Глеб (@glebb228)"
+  ],
+  "concepts": [
+    {
+      "id": "5.1_technology_and_digital_literacy/artificial_intelligence_simple/artificial_intelligence",
+      "description": "Что такое искусственный интеллект, какие задачи он решает и почему программа с ИИ не думает точно так же, как человек.",
+      "lemmas": ["искусственный интеллект", "ИИ", "умная программа"],
+      "name": "Что такое искусственный интеллект",
+      "file": "WEB/5.1_technology_and_digital_literacy/artificial_intelligence_simple/articles/01_artificial_intelligence.md",
+      "wikidata_id": "Q11660",
+      "author": "Козлов Глеб (@glebb228)"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/artificial_intelligence_simple/neural_network_training",
+      "description": "Как нейронная сеть учится на примерах, что такое обучающие данные и почему качество примеров влияет на результат.",
+      "lemmas": ["нейронная сеть", "обучение нейронной сети", "обучающие данные", "машинное обучение"],
+      "name": "Как обучается нейронная сеть",
+      "file": "WEB/5.1_technology_and_digital_literacy/artificial_intelligence_simple/articles/02_neural_network_training.md",
+      "wikidata_id": "Q192776",
+      "author": "Козлов Глеб (@glebb228)"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/artificial_intelligence_simple/generative_ai",
+      "description": "Как генеративный искусственный интеллект создает тексты, изображения и другие материалы, а также почему его ответы могут содержать ошибки.",
+      "lemmas": ["генеративный ИИ", "генеративный искусственный интеллект", "языковая модель", "промпт"],
+      "name": "Генеративный ИИ и языковые модели",
+      "file": "WEB/5.1_technology_and_digital_literacy/artificial_intelligence_simple/articles/03_generative_ai.md",
+      "wikidata_id": "Q117246174",
+      "author": "Козлов Глеб (@glebb228)"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/artificial_intelligence_simple/ai_in_everyday_life",
+      "description": "Где человек встречает ИИ каждый день: рекомендации, навигация, распознавание речи, фильтры спама и другие сервисы.",
+      "lemmas": ["ИИ в повседневной жизни", "рекомендательная система", "голосовой помощник", "распознавание речи"],
+      "name": "Где ИИ встречается в повседневной жизни",
+      "file": "WEB/5.1_technology_and_digital_literacy/artificial_intelligence_simple/articles/04_ai_in_everyday_life.md",
+      "wikidata_id": "Q11660",
+      "author": "Козлов Глеб (@glebb228)"
+    },
+    {
+      "id": "5.1_technology_and_digital_literacy/artificial_intelligence_simple/ai_safety",
+      "description": "Правила безопасной работы с ИИ: защита личных данных, проверка фактов, уважение к авторам и ответственность человека за решения.",
+      "lemmas": ["безопасное использование ИИ", "безопасность ИИ", "проверка фактов", "личные данные"],
+      "name": "Как пользоваться ИИ безопасно",
+      "file": "WEB/5.1_technology_and_digital_literacy/artificial_intelligence_simple/articles/05_ai_safety.md",
+      "wikidata_id": "Q116291231",
+      "author": "Козлов Глеб (@glebb228)"
+    }
+  ]
+}
