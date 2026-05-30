@@ -8,14 +8,14 @@
 
 | Участник | Роль |
 |----------|------|
-| Козлов Глеб, GitHub: @glebb228 | Автор, редактор, разработчик скриптов |
+| Козлов Глеб, группа 313, GitHub: @glebb228 | Автор, редактор, разработчик скриптов |
 
 Работа выполнена одним участником, поэтому концептуализация включает 5 связанных понятий вместо стандартных 15 понятий для команды из 5 человек.
 
 ### Что сделано
 1. Определены пять понятий и связи между ними.
 2. Подготовлены пять статей для школьников.
-3. Для каждого понятия указан идентификатор WikiData.
+3. Для каждого понятия указана связанная сущность WikiData.
 4. Добавлены SPARQL-запросы для получения структурированных знаний.
 5. Добавлен шаблон генерации черновиков через LLM API.
 6. Добавлен скрипт расстановки перекрестных ссылок.
@@ -55,8 +55,10 @@ graph TD
 - [WikiData: artificial neural network](https://www.wikidata.org/wiki/Q192776)
 - [WikiData: generative artificial intelligence](https://www.wikidata.org/wiki/Q117246174)
 - [WikiData: AI safety](https://www.wikidata.org/wiki/Q116291231)
+- [DBpedia: Artificial intelligence](https://dbpedia.org/page/Artificial_intelligence)
+- [DBpedia: Machine learning](https://dbpedia.org/page/Machine_learning)
 
-Запросы для WikiData сохранены в `sparql/wikidata_queries.md`.
+Запросы для WikiData и DBpedia сохранены в папке `sparql`.
 
 ## Автоматизация
 
@@ -77,6 +79,7 @@ graph TD
 - `WORK/5.1_technology_and_digital_literacy/artificial_intelligence_simple/concepts.json`
 - `WORK/5.1_technology_and_digital_literacy/artificial_intelligence_simple/llm_prompts.md`
 - `WORK/5.1_technology_and_digital_literacy/artificial_intelligence_simple/sparql/wikidata_queries.md`
+- `WORK/5.1_technology_and_digital_literacy/artificial_intelligence_simple/sparql/dbpedia_queries.md`
 - `WORK/5.1_technology_and_digital_literacy/artificial_intelligence_simple/src/generate_pages_template.py`
 - `WORK/5.1_technology_and_digital_literacy/artificial_intelligence_simple/src/insert_links.py`
 - `WEB/5.1_technology_and_digital_literacy/artificial_intelligence_simple/contents.md`
